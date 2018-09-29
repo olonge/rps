@@ -1,4 +1,4 @@
-## Privacy Policy
+## Rock Paper Scissors - Ai (Test) - Privacy Policy
 
 aStoic Ltd built the Rock Paper Scissors - Ai (Test) app as a Commercial app. This SERVICE is provided by aStoic Ltd and is intended for use as is.
 
